@@ -53,6 +53,7 @@ For Software:
 For Software:
 #### # Installation
 ```bash
+```
 # 1. Clone the project repository (if applicable)
 git clone https://github.com/username/project-name.git
 
