@@ -82,34 +82,14 @@ This markdown should give you a clean structure for hardware and software implem
 *MATCHING THEIR SOULMATES*
 ![Screenshot 2025-02-09 092905](https://github.com/user-attachments/assets/c3ff880d-285a-46e9-9d0b-6e1ebaba9aac)
 
-# Diagrams
-
-![Workflow](path/to/workflow_diagram.png)
-*Add caption explaining your workflow.*
-
-For Hardware:
-
-# Schematic & Circuit
-
-![Circuit](path/to/circuit_diagram.png)
-*Add caption explaining connections.*
-
-![Schematic](path/to/schematic_diagram.png)
-*Add caption explaining the schematic.*
-
-
 # Build Photos
 !TRIO https://web.whatsapp.com/
 
+https://web.whatsapp.com/
+*STARTING WITH NO IDEA WHAT TO DO WHAT NOT TO DO*
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+[2025-02-09 (1)](https://github.com/user-attachments/assets/5e20a747-65e3-42c9-a40d-39c2b789b4fa)
+*UNEXPECTED OUTPUT WITH NICE MEMORIES AND GETTING KNOWLEGE ON NEW THINGS*
 
 ### Project Demo
 # Video
