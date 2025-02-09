@@ -68,24 +68,18 @@ Open the HTML file in your web browser for immediate testing or use a local serv
 For Software:
 This markdown should give you a clean structure for hardware and software implementation, as well as installation and running steps for your project.
 
-# Screenshots (Add at least 3)
-
-![Screenshot1](path/to/screenshot1.png)
+# Screenshots 
 *WELCOME SCREEN TO INTRODUCE THE APP*
 ![Screenshot 2025-02-09 093422](https://github.com/user-attachments/assets/43eb5c0e-790c-4cd7-bde3-d483328dfd3d)
 
-![Screenshot2](path/to/screenshot2.png)
 *HEART POP UP TO MEASURING THEIR PERCENTAGE *
 ![Screenshot 2025-02-09 092916](https://github.com/user-attachments/assets/7ca0688d-b4bc-448c-a6aa-65fea95e67e6)
 
-![Screenshot3](path/to/screenshot3.png)
 *MATCHING THEIR SOULMATES*
 ![Screenshot 2025-02-09 092905](https://github.com/user-attachments/assets/c3ff880d-285a-46e9-9d0b-6e1ebaba9aac)
 
 # Build Photos
-!TRIO https://web.whatsapp.com/
-
-https://web.whatsapp.com/
+![WhatsApp Image 2025-02-09 at 11 07 02 AM](https://github.com/user-attachments/assets/fbe79188-ddd9-460a-87d2-ae792b733052)
 *STARTING WITH NO IDEA WHAT TO DO WHAT NOT TO DO*
 
 [2025-02-09 (1)](https://github.com/user-attachments/assets/5e20a747-65e3-42c9-a40d-39c2b789b4fa)
@@ -93,11 +87,11 @@ https://web.whatsapp.com/
 
 ### Project Demo
 # Video
-https://web.whatsapp.com/
+blob:https://web.whatsapp.com/f6e6b550-41c8-40d8-b25e-148757edfde0
 *THIS SHOWS HOW OUR IDEA WORKS*
 
 # Additional Demos
-https://web.whatsapp.com/
+blob:https://web.whatsapp.com/0c6ee344-29a1-417c-ba84-5c5ff5f9c6dc
 ANOTHER SAMPLE
 
 ## Team Contributions
