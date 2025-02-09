@@ -75,11 +75,11 @@ This markdown should give you a clean structure for hardware and software implem
 ![Screenshot 2025-02-09 093422](https://github.com/user-attachments/assets/43eb5c0e-790c-4cd7-bde3-d483328dfd3d)
 
 ![Screenshot2](path/to/screenshot2.png)
-*MATCHING THEIR SOULMATES*
+*HEART POP UP TO MEASURING THEIR PERCENTAGE *
 ![Screenshot 2025-02-09 092916](https://github.com/user-attachments/assets/7ca0688d-b4bc-448c-a6aa-65fea95e67e6)
 
 ![Screenshot3](path/to/screenshot3.png)
-*HEART POP UP TO MEASURING THEIR PERCENTAGE*
+*MATCHING THEIR SOULMATES*
 ![Screenshot 2025-02-09 092905](https://github.com/user-attachments/assets/c3ff880d-285a-46e9-9d0b-6e1ebaba9aac)
 
 # Diagrams
@@ -99,7 +99,7 @@ For Hardware:
 
 
 # Build Photos
-![Team](Add photo of your team here)
+!TRIO https://web.whatsapp.com/
 
 
 ![Components](Add photo of your components here)
