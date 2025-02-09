@@ -67,6 +67,34 @@ git clone https://github.com/username/project-name.git
 For Software:
 This markdown should give you a clean structure for hardware and software implementation, as well as installation and running steps for your project.
 
+# Screenshots (Add at least 3)
+
+![Screenshot1](path/to/screenshot1.png)
+*Add caption explaining what this shows.*
+![Screenshot 2025-02-09 093422](https://github.com/user-attachments/assets/43eb5c0e-790c-4cd7-bde3-d483328dfd3d)
+
+![Screenshot2](path/to/screenshot2.png)
+*Add caption explaining what this shows.*
+![Screenshot 2025-02-09 092916](https://github.com/user-attachments/assets/7ca0688d-b4bc-448c-a6aa-65fea95e67e6)
+
+![Screenshot3](path/to/screenshot3.png)
+*Add caption explaining what this shows.*
+![Screenshot 2025-02-09 092905](https://github.com/user-attachments/assets/c3ff880d-285a-46e9-9d0b-6e1ebaba9aac)
+
+# Diagrams
+
+![Workflow](path/to/workflow_diagram.png)
+*Add caption explaining your workflow.*
+
+For Hardware:
+
+# Schematic & Circuit
+
+![Circuit](path/to/circuit_diagram.png)
+*Add caption explaining connections.*
+
+![Schematic](path/to/schematic_diagram.png)
+*Add caption explaining the schematic.*
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
