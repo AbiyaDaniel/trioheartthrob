@@ -58,11 +58,11 @@ For Software:
 git clone https://github.com/username/project-name.git
 
 # 2. Install p5.js library
-# Open the HTML file in your web browser for immediate testing or use a local server.
+Open the HTML file in your web browser for immediate testing or use a local server.
 
 # Run
-# 1. Open the index.html file directly in your browser to view and interact with the project.
-# 2. For local development, open the project in your browser with a server (for instance, using the live server plugin in VS Code).
+1. Open the index.html file directly in your browser to view and interact with the project.
+2. For local development, open the project in your browser with a server (for instance, using the live server plugin in VS Code).
 
 ### Project Documentation
 For Software:
@@ -71,15 +71,15 @@ This markdown should give you a clean structure for hardware and software implem
 # Screenshots (Add at least 3)
 
 ![Screenshot1](path/to/screenshot1.png)
-*Add caption explaining what this shows.*
+*WELCOME SCREEN TO INTRODUCE THE APP*
 ![Screenshot 2025-02-09 093422](https://github.com/user-attachments/assets/43eb5c0e-790c-4cd7-bde3-d483328dfd3d)
 
 ![Screenshot2](path/to/screenshot2.png)
-*Add caption explaining what this shows.*
+*MATCHING THEIR SOULMATES*
 ![Screenshot 2025-02-09 092916](https://github.com/user-attachments/assets/7ca0688d-b4bc-448c-a6aa-65fea95e67e6)
 
 ![Screenshot3](path/to/screenshot3.png)
-*Add caption explaining what this shows.*
+*HEART POP UP TO MEASURING THEIR PERCENTAGE*
 ![Screenshot 2025-02-09 092905](https://github.com/user-attachments/assets/c3ff880d-285a-46e9-9d0b-6e1ebaba9aac)
 
 # Diagrams
@@ -97,29 +97,6 @@ For Hardware:
 ![Schematic](path/to/schematic_diagram.png)
 *Add caption explaining the schematic.*
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add ![2025-02-09 (1)](https://github.com/user-attachments/assets/ec1efeb0-75b7-4976-a53f-131670d107a8)
-caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
@@ -136,16 +113,17 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://web.whatsapp.com/
+*THIS SHOWS HOW OUR IDEA WORKS*
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://web.whatsapp.com/
+ANOTHER SAMPLE
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- ANJANA.S: WELCOME 
+- ANAHA.S: MATCHING UP
+- ABIYA DANIEL: POP UP HEART
 
 ---
 Made with ❤️ at TinkerHub
