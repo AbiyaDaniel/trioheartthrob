@@ -67,7 +67,7 @@ This markdown should give you a clean structure for hardware and software implem
 
 ### Project Demo
 # Video
-blob:
+blob:https://github.com/AbiyaDaniel/trioheartthrob/blob/main/VID-20250209-WA0011.mp4
 *THIS SHOWS HOW OUR IDEA WORKS*
 
 # Additional Demos
