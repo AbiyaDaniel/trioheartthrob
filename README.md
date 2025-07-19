@@ -32,11 +32,6 @@ For Software:
 ---
 
 ### Implementation
-
-For Software:
-#### # Installation
-```bash
-```
 # 1. Install p5.js library
 Open the HTML file in your web browser for immediate testing or use a local server.
 
@@ -67,7 +62,7 @@ This markdown should give you a clean structure for hardware and software implem
 
 ### Project Demo
 # Video
-blob:https://github.com/AbiyaDaniel/trioheartthrob/blob/main/VID-20250209-WA0011.mp4
+blob:
 *THIS SHOWS HOW OUR IDEA WORKS*
 
 # Additional Demos
