@@ -54,10 +54,7 @@ For Software:
 #### # Installation
 ```bash
 ```
-# 1. Clone the project repository (if applicable)
-git clone https://github.com/username/project-name.git
-
-# 2. Install p5.js library
+# 1. Install p5.js library
 Open the HTML file in your web browser for immediate testing or use a local server.
 
 # Run
