@@ -62,12 +62,12 @@ This markdown should give you a clean structure for hardware and software implem
 
 ### Project Demo
 # Video
-blob:
+https://drive.google.com/file/d/1QCu1vD2sMFAuDBuGumkbIY1YHjzI7hVd/view?usp=drivesdk
 *THIS SHOWS HOW OUR IDEA WORKS*
 
 # Additional Demos
-blob:
-ANOTHER SAMPLE
+https://drive.google.com/file/d/1QD6zbz7OHyc2H1qPw25W3gnCeb2wjOa_/view?usp=drivesdk
+*ANOTHER SAMPLE
 
 ## Team Contributions
 - ANJANA.S: WELCOME 
