@@ -29,23 +29,6 @@ For Software:
 - **Frameworks used**: p5.js
 - **Libraries used**: p5.js (for interactive graphics)
 - **Tools used**: Text Editor (VS Code, Sublime Text), Web Browser, Sound Files for music
-
-## For Hardware:
-- **Main Components**:
-  - Computer/Laptop with internet access
-  - Speakers or headphones (for music playback)
-  
-- **Specifications**:
-  - Operating System: Windows/Mac/Linux
-  - Web Browser: Chrome, Firefox, Safari, etc.
-  - Minimum RAM: 4 GB
-  - Processor: Intel i3 or equivalent (for basic tasks)
-
-- **Tools Required**:
-  - Web Browser (Google Chrome, Firefox, etc.)
-  - Text Editor (VS Code, Sublime Text)
-  - Internet connection for downloading libraries or assets
-
 ---
 
 ### Implementation
@@ -84,11 +67,11 @@ This markdown should give you a clean structure for hardware and software implem
 
 ### Project Demo
 # Video
-blob:https://web.whatsapp.com/f6e6b550-41c8-40d8-b25e-148757edfde0
+blob:
 *THIS SHOWS HOW OUR IDEA WORKS*
 
 # Additional Demos
-blob:https://web.whatsapp.com/0c6ee344-29a1-417c-ba84-5c5ff5f9c6dc
+blob:
 ANOTHER SAMPLE
 
 ## Team Contributions
